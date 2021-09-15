@@ -1,0 +1,16 @@
+{
+    "name": "garbott/precious-metals",
+    "type": "library",
+    "description": "Library to retreive, display precious metal prices",
+    "keywords": ["precious-metals"],
+    "homepage": "https://garbott.co.uk",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Joseph Garbett",
+            "email": "joseph@garbott.co.uk",
+            "homepage": "https://garbott.co.uk",
+            "role": "Developer"
+        }
+    ]
+}
